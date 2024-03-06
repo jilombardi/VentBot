@@ -1,5 +1,3 @@
-//taken out of commands folder because of error
-
 const { SlashCommandBuilder } = require('discord.js');
 
 module.exports = {

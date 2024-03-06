@@ -20,5 +20,23 @@ module.exports = {
             console.error(`Error executing ${interaction.commandName}`);
             console.error(error);
         }
-    },
-};
+        if(interaction.isAutocomplete()){
+    
+            if(!command) {
+                console.error(`No command matching ${interaction.commandName} was found.`);
+                return;
+            }
+
+            try{
+                await command.autocomplete(interaction);
+            } catch(error) {
+                console.error(error);
+            }
+        }
+
+    }
+
+
+
+
+}

@@ -1,0 +1,32 @@
+[
+    {
+        "characterName": "venti",
+        "star": "5",
+        "weapon": "bow",
+        "region": "mond",
+        "affiliation": null,
+        "bannerName": "ballad in goblets",
+        "bannerType": "event",
+        "website": "null"
+    },
+    {
+        "characterName": "hu tao",
+        "star": "5",
+        "weapon": "polearm",
+        "region": "liyue",
+        "affiliation": null,
+        "bannerName": "moment of bloom",
+        "bannerType": "event",
+        "website": "null"
+    },
+    {
+        "characterName": "kokomi",
+        "star": "5",
+        "weapon": "catalyst",
+        "region": "inazuma",
+        "affiliation": null,
+        "bannerName": "drifting luminescence",
+        "bannerType": "event",
+        "website": "null"
+    }
+]
