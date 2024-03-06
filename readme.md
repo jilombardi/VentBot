@@ -77,9 +77,9 @@ It goes through the entire process of making a disord bot, part 2 describes how 
     2. ***** If you plan to post this on github, add a '.gitignore' file. In this file, type '.env' *********
     3. paste the following into the file:
 
-CLIENT_TOKEN= <>
-GUILD_ID = <>
-CLIENT_ID = <>
+    CLIENT_TOKEN= <>
+    GUILD_ID = <>
+    CLIENT_ID = <>
 
         # CLIENT_TOKEN
             1.The client token is your bot's token. Go to https://discord.com/developers/applications > bot application page > Bot
