@@ -3,8 +3,8 @@
         "characterName": "venti",
         "star": "5",
         "weapon": "bow",
-        "region": "mond",
-        "affiliation": null,
+        "region": "mondstadt",
+        "affiliation": "mondstadt",
         "bannerName": "ballad in goblets",
         "bannerType": "event",
         "website": "null"
@@ -14,7 +14,7 @@
         "star": "5",
         "weapon": "polearm",
         "region": "liyue",
-        "affiliation": null,
+        "affiliation": "Wangsheng Funeral Parlor",
         "bannerName": "moment of bloom",
         "bannerType": "event",
         "website": "null"
@@ -24,7 +24,7 @@
         "star": "5",
         "weapon": "catalyst",
         "region": "inazuma",
-        "affiliation": null,
+        "affiliation": "Watatsumi Island",
         "bannerName": "drifting luminescence",
         "bannerType": "event",
         "website": "null"
