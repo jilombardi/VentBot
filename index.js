@@ -17,6 +17,7 @@ require('dotenv').config(); //initializes dotenv
 const { Client, Collection, Events, GatewayIntentBits } = require('discord.js'); //imports discord.js
 const fs = require("node:fs");
 const path = require("node:path");
+const chrs = require('./genshinCharacterInfo.json');
 
 const client = new Client({ intents: [
   GatewayIntentBits.Guilds,
@@ -69,23 +70,26 @@ for (const file of eventFiles) {
 
 
 //autocomplete interactions
-client.on(Events.InteractionCreate, async interaction => {
-	if (interaction.isChatInputCommand()) {
-		// command handling
-	} else if (interaction.isAutocomplete()) {
-		const command = interaction.client.commands.get(interaction.commandName);
+client.on('interactionCreate',(interaction) => {
+  if (!interaction.isAutocomplete()) return;
+  if (interaction.commandName !== 'test') return;
 
-		if (!command) {
-			console.error(`No command matching ${interaction.commandName} was found.`);
-			return;
-		}
+  const focusedValue = interaction.options.getFocused();
+  console.log(focusedValue);
 
-		try {
-			await command.autocomplete(interaction);
-		} catch (error) {
-			console.error(error);
-		}
-	}
+  const filteredChoices = chrs.filter((chr) =>
+    chr.characterName.toLowerCase().startsWith(focusedValue.toLowerCase())
+  );
+
+  const results = filteredChoices.map((choice) => {
+    return{
+      name: choice.characterName,
+      value: choice.ID,
+    }
+  })
+
+  interaction.respond(results.slice(0,25)).catch(()=> {});
+
 });
 
 //end autocmplete interactions 
@@ -96,15 +100,6 @@ client.on('messageCreate', msg => {
   
   if (msg.content === ("ping")) {
     msg.reply('Pong!');
-  }
-
-  if (msg.content.includes("frog"))
-  {
-    msg.reply("im not a FROG >:c")
-  }
-  if (msg.content.includes("dinner"))
-  {
-    msg.reply("i wish i could eat... but alas, i am a bot.")
   }
   
 });
