@@ -18,6 +18,7 @@ const { Client, Collection, Events, GatewayIntentBits } = require('discord.js');
 const fs = require("node:fs");
 const path = require("node:path");
 const chrs = require('./genshinCharacterInfo.json');
+const domains = require('./genshinDomainInfo.json');
 
 const client = new Client({ intents: [
   GatewayIntentBits.Guilds,
@@ -70,27 +71,57 @@ for (const file of eventFiles) {
 
 
 //autocomplete interactions
+
+//SLASH COMMAND 'ci'
 client.on('interactionCreate',(interaction) => {
   if (!interaction.isAutocomplete()) return;
-  if (interaction.commandName !== 'test') return;
+  
+  if (interaction.commandName !== 'ci') return;
 
-  const focusedValue = interaction.options.getFocused();
-  console.log(focusedValue);
+    const focusedValue = interaction.options.getFocused();
+    console.log(focusedValue);
 
-  const filteredChoices = chrs.filter((chr) =>
-    chr.characterName.toLowerCase().startsWith(focusedValue.toLowerCase())
-  );
+    const filteredChoices = chrs.filter((chr) =>
+     chr.characterName.toLowerCase().startsWith(focusedValue.toLowerCase())
+   );
 
-  const results = filteredChoices.map((choice) => {
-    return{
-      name: choice.characterName,
-      value: choice.ID,
-    }
-  })
+    const results = filteredChoices.map((choice) => {
+      return{
+        name: choice.characterName.toLowerCase(),
+        value: choice.ID,
+      }
+    })
 
-  interaction.respond(results.slice(0,25)).catch(()=> {});
+    interaction.respond(results.slice(0,25)).catch(()=> {});
+ 
 
 });
+
+//SLASH COMMAND 'di'
+client.on('interactionCreate',(interaction) => {
+  if (!interaction.isAutocomplete()) return;
+  
+  if (interaction.commandName !== 'di') return;
+
+    const focusedValue = interaction.options.getFocused();
+    console.log(focusedValue);
+
+    const filteredChoices = domains.filter((domain) =>
+     domain['Domain Name'].toLowerCase().startsWith(focusedValue.toLowerCase())
+   );
+
+    const results = filteredChoices.map((choice) => {
+      return{
+        name: choice['Domain Name'].toLowerCase(),
+        value: choice.ID,
+      }
+    })
+
+    interaction.respond(results.slice(0,25)).catch(()=> {}); 
+
+});
+
+
 
 //end autocmplete interactions 
 
@@ -100,6 +131,17 @@ client.on('messageCreate', msg => {
   
   if (msg.content === ("ping")) {
     msg.reply('Pong!');
+  }
+
+  if (msg.content === ("ventiImage")){
+
+    
+    msg.reply({files: ["./characterImages/VentiCard.png"], content:"Venti\naslkefvakjv"});
+
+    
+    
+  
+
   }
   
 });

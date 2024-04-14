@@ -1,0 +1,549 @@
+[
+    {
+        "ID": "1",
+        "Domain Name": "Cecila Garden",
+        "Domain Type": "Domain of Forgery",
+        "RewardType": "Weapon ascension material",
+        "Version Released": "1.0",
+        "Region": "Mondstadt",
+        "Location": "Wolvendom, Windwail Highland",
+        "Reccomended Elements": "Cryo, Pyro, Electro",
+        "Color": null,
+        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/f/fb/Domain_Cecilia_Garden.png/revision/latest?cb=20201221031347",
+        "Rewards": [
+            {
+                "SubDomain": "City of Reflections",
+                "Days": "Monday/Thursday/Sunday",
+                "2 star unique rewards": "Tile of Decarbian's Tower",
+                "3 star unique rewards": "Debris of Decarbian's City",
+                "4 star unique rewards": "Fragment of Decarbian's Epic",
+                "5 star unique rewards": "Scattered Piece Decarbian's Dream"
+            },
+            {
+                "SubDomain": "Submerged Valley",
+                "Days": "Tuesday/Friday/Sunday",
+                "2 star unique rewards": "Boreal Wolf's Milk Tooth",
+                "3 star unique rewards": "Boreal Wolf's Cracked Tooth",
+                "4 star unique rewards": "Boreal Wolf's Broken Fang",
+                "5 star unique rewards": "Boreal Wolf's Nostalgia"
+
+            },
+            {
+                "SubDomain": "Ruins of Thirsting Capital",
+                "Days": "Wednesday/Saturday/Sunday",
+                "2 star unique rewards": "Fetters of the Dandelion Gladiator",
+                "3 star unique rewards": "Chains of the Dandelion Gladiator",
+                "4 star unique rewards": "Shackles of the Dandelion Gladiator",
+                "5 star unique rewards": "Dream of the Dandelion Gladiator"
+
+            }
+        ]
+    },
+    {
+        "ID": "2",
+        "Domain Name": "Hidden Palace of Lianshan Formula",
+        "Domain Type": "Domain of Forgery",
+        "RewardType": "Weapon ascension material",
+        "Version Released": "1.0",
+        "Region": "Liyue",
+        "Location": "Mingyun Village, Qiongji Estuary",
+        "Reccomended Elements": "Pyro, Cyro",
+        "Color": null,
+        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/6/6f/Domain_Hidden_Palace_of_Lianshan_Formula.png/revision/latest?cb=20201221031402",
+        "Rewards": [
+            {
+                "SubDomain": "Thundercloud",
+                "Days": "Monday/Thursday/Sunday",
+                "2 star unique rewards": "Luminous Sands From Guyun",
+                "3 star unique rewards": "Lustrous Stone From Guyun",
+                "4 star unique rewards": "Relic From Guyun",
+                "5 star unique rewards": "Divine Body From Guyun"
+            },
+            {
+                "SubDomain": "Thundering Ruins",
+                "Days": "Tuesday/Friday/Sunday",
+                "2 star unique rewards": "Mist Veiled Lead Elixir",
+                "3 star unique rewards": "Mist Veiled Mercury Elixir",
+                "4 star unique rewards": "Mist Veiled Gold Elixir",
+                "5 star unique rewards": "Mist Veiled Primo Elixer"
+
+            },
+            {
+                "SubDomain": "Trial Grounds of Thunder",
+                "Days": "Wednesday/Saturday/Sunday",
+                "2 star unique rewards": "Grain of Aerosiderite",
+                "3 star unique rewards": "Piece of Aerosiderite",
+                "4 star unique rewards": "Bit of Aerosiderite",
+                "5 star unique rewards": "Chunck of Aerosiderite"
+            }
+        ]
+    },
+    {
+        "ID": "3",
+        "Domain Name": "Court of Flowing Sand",
+        "Domain Type": "Domain of Forgery",
+        "RewardType": "Weapon ascension material",
+        "Version Released": "2.0",
+        "Region": "Inazuma",
+        "Location": "Mt. Yougou, Narukami Island",
+        "Reccomended Elements": "Geo, Cryo",
+        "Color": null,
+        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/2/21/Domain_Court_of_Flowing_Sand.png/revision/latest?cb=20210723015914",
+        "Rewards": [
+            {
+                "SubDomain": "Sunken Sands",
+                "Days": "Monday/Thursday/Sunday",
+                "2 star unique rewards": "Coral Branch of a Distant Sea",
+                "3 star unique rewards": "Jeweled Branch of a Distant Sea",
+                "4 star unique rewards": "Jade Branch of a Distant Sea",
+                "5 star unique rewards": "Golden Branch of a Distant Sea"
+        
+            },
+            {
+                "SubDomain": "Altar of Sands",
+                "Days": "Tuesday/Friday/Sunday",
+                "2 star unique rewards": "Narukami's Wisdom",
+                "3 star unique rewards": "Narukami's Joy",
+                "4 star unique rewards": "Narukami's Affection",
+                "5 star unique rewards": "Narukami's Valor"
+
+            },
+            {
+                "SubDomain": "Sand Burial",
+                "Days": "Wednesday/Saturday/Sunday",
+                "2 star unique rewards": "Mask of the Wicked Lieutenant",
+                "3 star unique rewards": "Mask of the Tiger's Bite",
+                "4 star unique rewards": "Mask of the One-Horned",
+                "5 star unique rewards": "Mask of the Kijin"
+            }
+        ]
+    },
+    {
+        "ID": "4",
+        "Domain Name": "Tower of Abject Pride",
+        "Domain Type": "Domain of Forgery",
+        "RewardType": "Weapon ascension material",
+        "Version Released": "3.0",
+        "Region": "Sumeru",
+        "Location": "Apam Woods, Ashavan Relam",
+        "Reccomended Elements": "Dendro, Electo",
+        "Color": null,
+        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/8/8c/Domain_Tower_of_Abject_Pride.png/revision/latest?cb=20220825231437",
+        "Rewards": [
+            {
+                "SubDomain": "Tainted Clouds",
+                "Days": "Monday/Thursday/Sunday",
+                "2 star unique rewards": "Copper Talisman of the Forest Dew",
+                "3 star unique rewards": "Iron Talisman of the Forest Dew",
+                "4 star unique rewards": "Silver Talisman of the Forest Dew",
+                "5 star unique rewards": "Golden Talisman of the Forest Dew"
+        
+            },
+            {
+                "SubDomain": "Obsession",
+                "Days": "Tuesday/Friday/Sunday",
+                "2 star unique rewards": "Oasis Garden's Reminiscence",
+                "3 star unique rewards": "Oasis Garden's Kindness",
+                "4 star unique rewards": "Oasis Garden's Mourning",
+                "5 star unique rewards": "Oasis Garden's Reminiscence Truth"
+
+            },
+            {
+                "SubDomain": "Leading Karma",
+                "Days": "Wednesday/Saturday/Sunday",
+                "2 star unique rewards": "Echo of Scorching Might",
+                "3 star unique rewards": "Remnant Glow of Scorching Might",
+                "4 star unique rewards": "Dream of Scorching Might",
+                "5 star unique rewards": "Olden Days of Scorching Might"
+            }
+        ]
+    },
+    {
+        "ID": "5",
+        "Domain Name": "Echoes of the Deep Tides",
+        "Domain Type": "Domain of Forgery",
+        "RewardType": "Weapon ascension material",
+        "Version Released": "4.0",
+        "Region": "Fontaine",
+        "Location": "Court of Fontaine Region",
+        "Reccomended Elements": "Hydro, Pyro, Cryo, Anemo",
+        "Color": null,
+        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/8/85/Domain_Echoes_of_the_Deep_Tides.png/revision/latest?cb=20230818153455",
+        "Rewards": [
+            {
+                "SubDomain": "Robotic Ruse",
+                "Days": "Monday/Thursday/Sunday",
+                "2 star unique rewards": "Fragment of an Ancient Cloud",
+                "3 star unique rewards": "Chapter of an Ancient Cloud",
+                "4 star unique rewards": "Movement of an Ancient Cloud",
+                "5 star unique rewards": "Echo of an Ancient Cloud"
+        
+            },
+            {
+                "SubDomain": "Artisanship",
+                "Days": "Tuesday/Friday/Sunday",
+                "2 star unique rewards": "Dross of Pure Sacred Dewdrop",
+                "3 star unique rewards": "Sublimationof Pure Sacred Dewdrop",
+                "4 star unique rewards": "Spring of Pure Sacred Dewdrop",
+                "5 star unique rewards": "Essence of Pure Sacred Dewdrop"
+
+            },
+            {
+                "SubDomain": "Curious Contraptions",
+                "Days": "Wednesday/Saturday/Sunday",
+                "2 star unique rewards": "Broken Goblet of the Pristine Sea",
+                "3 star unique rewards": "Wine Goblet of the Pristine Sea",
+                "4 star unique rewards": "Silver Goblet of the Pristine Sea",
+                "5 star unique rewards": "Golden Goblet of the Pristine Sea"
+            }
+        ]
+    },
+    {
+        "ID": "6",
+        "Domain Name": "Midsummer Courtyard",
+        "Domain Type": "Domain of Blessing",
+        "RewardType": "Artifact",
+        "Version Released": "1.0",
+        "Region": "Mondstadt",
+        "Location": "Starsnatch Cliff, Starfell Valley",
+        "Reccomended Elements": "Pyro",
+        "Color": null,
+        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/2/28/Domain_Midsummer_Courtyard.png/revision/latest?cb=20201221031727"
+    },
+    {
+        "ID": "7",
+        "Domain Name": "Valley of Remembrance",
+        "Domain Type": "Domain of Blessing",
+        "RewardType": "Artifact",
+        "Version Released": "1.0",
+        "Region": "Mondstadt",
+        "Location": "Dawn Winery, Windwail Highland",
+        "Reccomended Elements": "-",
+        "Color": null,
+        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/5/53/Domain_Valley_of_Remembrance.png/revision/latest?cb=20201221031212"
+    },
+    {
+        "ID": "8",
+        "Domain Name": "Peak of Vindagnyr",
+        "Domain Type": "Domain of Blessing",
+        "RewardType": "Artifact",
+        "Version Released": "1.1",
+        "Region": "Mondstadt",
+        "Location": "Skyfrost Nail, Dragonspine",
+        "Reccomended Elements": "Pyro, Electro, Geo, Anemo",
+        "Color": null,
+        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/a/af/Peak_of_Vindagnyr.png/revision/latest?cb=20220408051137"
+    },
+    {
+        "ID": "9",
+        "Domain Name": "Domain of Guyun",
+        "Domain Type": "Domain of Blessing",
+        "RewardType": "Artifact",
+        "Version Released": "1.0",
+        "Region": "Liyue",
+        "Location": "Guyun Stone Forest, Sea of Clouds",
+        "Reccomended Elements": "Electro",
+        "Color": null,
+        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/e/e3/Domain_of_Guyun.png/revision/latest?cb=20201221031030"
+    },
+    {
+        "ID": "10",
+        "Domain Name": "Hidden Palace of Zhou Formula",
+        "Domain Type": "Domain of Blessing",
+        "RewardType": "Artifact",
+        "Version Released": "1.0",
+        "Region": "Liyue",
+        "Location": "Wuwang Hill, Bishui Plain",
+        "Reccomended Elements": "Cryo",
+        "Color": null,
+        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/3/3c/Domain_Hidden_Palace_of_Zhou_Formula.png/revision/latest?cb=20201221031231"
+    },
+    {
+        "ID": "11",
+        "Domain Name": "Ridge Watch",
+        "Domain Type": "Domain of Blessing",
+        "RewardType": "Artifact",
+        "Version Released": "1.5",
+        "Region": "Liyue",
+        "Location": "Stone Gate, Bishui Plain",
+        "Reccomended Elements": "Hydro, Cryo, Geo",
+        "Color": null,
+        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Domain_Ridge_Watch.png/revision/latest?cb=20210428062805"
+    },
+    {
+        "ID": "12",
+        "Domain Name": "The Lost Valley",
+        "Domain Type": "Domain of Blessing",
+        "RewardType": "Artifact",
+        "Version Released": "2.6",
+        "Region": "Liyue",
+        "Location": "Fuao Vale, The Chasm",
+        "Reccomended Elements": "Pyro, Electro, Geo, Anemo",
+        "Color": null,
+        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/c/cb/Domain_The_Lost_Valley.png/revision/latest?cb=20220330202530"
+    },
+    {
+        "ID": "13",
+        "Domain Name": "Clear Pool and Mountain Cavern",
+        "Domain Type": "Domain of Blessing",
+        "RewardType": "Artifact",
+        "Version Released": "1.0",
+        "Region": "Liyue",
+        "Location": "Mt. Aucang, Minlin",
+        "Reccomended Elements": "Geo",
+        "Color": null,
+        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/b/b6/Domain_Clear_Pool_and_Mountain_Cavern.png/revision/latest?cb=20201221031314"
+    },
+    {
+        "ID": "14",
+        "Domain Name": "Momiji-Dyed Court",
+        "Domain Type": "Domain of Blessing",
+        "RewardType": "Artifact",
+        "Version Released": "2.0",
+        "Region": "Inazuma",
+        "Location": "Yashiori Island",
+        "Reccomended Elements": "Pyro, Cryo",
+        "Color": null,
+        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Domain_Momiji-Dyed_Court.png/revision/latest?cb=20210723015927"
+    },
+    {
+        "ID": "15",
+        "Domain Name": "Slumbering Court",
+        "Domain Type": "Domain of Blessing",
+        "RewardType": "Artifact",
+        "Version Released": "2.3",
+        "Region": "Inazuma",
+        "Location": "Seirai Island",
+        "Reccomended Elements": "Electro, Hydro",
+        "Color": null,
+        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Domain_Momiji-Dyed_Court.png/revision/latest?cb=20210723015927"
+    },
+    {
+        "ID": "16",
+        "Domain Name": "City of Gold",
+        "Domain Type": "Domain of Blessing",
+        "RewardType": "Artifact",
+        "Version Released": "3.3",
+        "Region": "Sumeru",
+        "Location": "Khaj-Nisut, Land of the Lower Setekh",
+        "Reccomended Elements": "Anemo",
+        "Color": null,
+        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/4/49/Domain_City_of_Gold.png/revision/latest?cb=20221228013103"
+    },
+    {
+        "ID": "17",
+        "Domain Name": "Spire of Solitary Enlightenment",
+        "Domain Type": "Domain of Blessing",
+        "RewardType": "Artifact",
+        "Version Released": "3.0",
+        "Region": "Sumeru",
+        "Location": "Gandha Hill, Avidya Forest",
+        "Reccomended Elements": "Electro, Cryo, Hydro",
+        "Color": null,
+        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/d/d8/Domain_Spire_of_Solitary_Enlightenment.png/revision/latest?cb=20220825231229"
+    },
+    {
+        "ID": "18",
+        "Domain Name": "Molten Iron Fortress",
+        "Domain Type": "Domain of Blessing",
+        "RewardType": "Artifact",
+        "Version Released": "3.6",
+        "Region": "Sumeru",
+        "Location": "Gavireh Lajavard",
+        "Reccomended Elements": "Dendro",
+        "Color": null,
+        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/4/49/Domain_City_of_Gold.png/revision/latest?cb=20221228013103"
+    },
+    {
+        "ID": "19",
+        "Domain Name": "Denouncment of Sin",
+        "Domain Type": "Domain of Blessing",
+        "RewardType": "Artifact",
+        "Version Released": "4.0",
+        "Region": "Fontaine",
+        "Location": "Belleau Region",
+        "Reccomended Elements": "Hydro, Cryo, Pyro, Anemo",
+        "Color": null,
+        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/a/ad/Domain_Denouement_of_Sin.png/revision/latest?cb=20230818155721"
+    },
+    {
+        "ID": "20",
+        "Domain Name": "Waterfall Wen",
+        "Domain Type": "Domain of Blessing",
+        "RewardType": "Artifact",
+        "Version Released": "4.3",
+        "Region": "Fontaine",
+        "Location": "East Slopes of Mount Automnequi, Morte Region",
+        "Reccomended Elements": "Geo",
+        "Color": null,
+        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/a/ad/Domain_Denouement_of_Sin.png/revision/latest?cb=20230818155721"
+    },
+    {
+        "ID": "21",
+        "Domain Name": "Forsaken Rift",
+        "Domain Type": "Domain of Mastery",
+        "RewardType": "Character talent material",
+        "Version Released": "1.0",
+        "Region": "Mondstadt",
+        "Location": "Springvale, Windwail Highland",
+        "Reccomended Elements": "Pyro, Electro",
+        "Color": null,
+        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/a/a1/Domain_Forsaken_Rift.png/revision/latest?cb=20201221031430"
+    },
+    {
+        "ID": "22",
+        "Domain Name": "Taishan Mansion",
+        "Domain Type": "Domain of Mastery",
+        "RewardType": "Character talent material",
+        "Version Released": "1.0",
+        "Region": "Liyue",
+        "Location": "Jueyun Karst, Minlin",
+        "Reccomended Elements": "Geo, Hydro, Pyro, Cryo, Electro",
+        "Color": null,
+        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/d/d8/Domain_Taishan_Mansion.png/revision/latest?cb=20201221031419"
+    },
+    {
+        "ID": "23",
+        "Domain Name": "Violet Court",
+        "Domain Type": "Domain of Mastery",
+        "RewardType": "Character talent material",
+        "Version Released": "2.0",
+        "Region": "Inazuma",
+        "Location": "Kannazuka",
+        "Reccomended Elements": "Dendro, Electro, Pyro, Hydro",
+        "Color": null,
+        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/7/7e/Domain_Violet_Court.png/revision/latest?cb=20210723015926"
+    },
+    {
+        "ID": "24",
+        "Domain Name": "Steeple of Ignorance",
+        "Domain Type": "Domain of Mastery",
+        "RewardType": "Character talent material",
+        "Version Released": "3.0",
+        "Region": "Sumeru",
+        "Location": "Chatrakam Cave, Lokapala Jungle",
+        "Reccomended Elements": "Hydro, Cyro, Electro",
+        "Color": null,
+        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/b/b4/Domain_Steeple_of_Ignorance.png/revision/latest?cb=20220825231411"
+    },
+    {
+        "ID": "25",
+        "Domain Name": "Pale Forgotten Glory",
+        "Domain Type": "Domain of Mastery",
+        "RewardType": "Character talent material",
+        "Version Released": "4.0",
+        "Region": "Fontaine",
+        "Location": "Salacia Plain, Court of Faintaine Region",
+        "Reccomended Elements": "Electro",
+        "Color": null,
+        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/0/08/Domain_Pale_Forgotten_Glory.png/revision/latest?cb=20230818154554"
+    },
+    {
+        "ID": "26",
+        "Domain Name": "Confront Stormterror",
+        "Domain Type": "Trounce Domain",
+        "RewardType": "Character level-up material",
+        "Version Released": "1.0",
+        "Region": "Mondstadt",
+        "Location": "Stormterror's Lair, Brightcrown Mountains",
+        "Reccomended Elements": "-",
+        "Color": null,
+        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/6/6a/Enemy_Dvalin_Full_Artwork.png/revision/latest?cb=20230820204530"
+    },
+    {
+        "ID": "27",
+        "Domain Name": "Andrius (Lupus Boreas)",
+        "Domain Type": "Domiator of Wolves Challenge",
+        "RewardType": "Character level-up material",
+        "Version Released": "1.0",
+        "Region": "Mondstadt",
+        "Location": "Wolvendom",
+        "Reccomended Elements": "-",
+        "Color": null,
+        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/b/bc/Enemy_Andrius_Full_Artwork.png/revision/latest?cb=20230820204531"
+    },
+    {
+        "ID": "29",
+        "Domain Name": "Enter the Golden House",
+        "Domain Type": "Trounce Domain",
+        "RewardType": "Character level-up material",
+        "Version Released": "1.1",
+        "Region": "Liyue",
+        "Location": "Mt. Tienheng, Sea of Clouds",
+        "Reccomended Elements": "-",
+        "Color": null,
+        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/8/8e/Enemy_Childe_Full_Artwork.png/revision/latest?cb=20230820204533"
+    },
+    {
+        "ID": "28",
+        "Domain Name": "Beneath the Dragon-Queller",
+        "Domain Type": "Trounce Domain",
+        "RewardType": "Character level-up material",
+        "Version Released": "1.5",
+        "Region": "Liyue",
+        "Location": "Nantianmen, Minlin",
+        "Reccomended Elements": "-",
+        "Color": null,
+        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/7/7e/Enemy_Azhdaha_Full_Artwork.png/revision/latest?cb=20230820204535"
+    },
+    {
+        "ID": "30",
+        "Domain Name": "End of the Oneiric Euthymia",
+        "Domain Type": "Trounce Domain",
+        "RewardType": "Character level-up material",
+        "Version Released": "2.5",
+        "Region": "Inazuma",
+        "Location": "Mt. Yougou, Narukami",
+        "Reccomended Elements": "-",
+        "Color": null,
+        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/1/13/Enemy_Magatsu_Mitake_Narukami_no_Mikoto_Full_Artwork.png/revision/latest?cb=20220507195941"
+    },
+    {
+        "ID": "31",
+        "Domain Name": "Narukami Island: Tenshukaku",
+        "Domain Type": "Trounce Domain",
+        "RewardType": "Character level-up material",
+        "Version Released": "2.1",
+        "Region": "Inazuma",
+        "Location": "Inazuma City, Narukami Island",
+        "Reccomended Elements": "-",
+        "Color": null,
+        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/b/bf/Enemy_Signora_Full_Artwork.png/revision/latest?cb=20230820204537"
+    },
+    {
+        "ID": "32",
+        "Domain Name": "Joururi Workshop",
+        "Domain Type": "Trounce Domain",
+        "RewardType": "Character level-up material",
+        "Version Released": "3.2",
+        "Region": "Sumeru",
+        "Location": "Chinvat Ravine, Avidya Forest",
+        "Reccomended Elements": "-",
+        "Color": null,
+        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/c/c7/Enemy_Everlasting_Lord_of_Arcane_Wisdom_Full_Artwork.png/revision/latest?cb=20221105175051"
+    },
+    {
+        "ID": "33",
+        "Domain Name": "The Realm of Beginings",
+        "Domain Type": "Trounce Domain",
+        "RewardType": "Character level-up material",
+        "Version Released": "3.6",
+        "Region": "Sumeru",
+        "Location": "Apep's Resort, Desert of Hadramaveth",
+        "Reccomended Elements": "-",
+        "Color": null,
+        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/8/86/Enemy_Warden_of_Oasis_Prime_Full_Artwork.png/revision/latest?cb=20230822110033"
+    },
+    {
+        "ID": "34",
+        "Domain Name": "Shadow of Another World",
+        "Domain Type": "Trounce Domain",
+        "RewardType": "Character level-up material",
+        "Version Released": "4.2",
+        "Region": "Fontaine",
+        "Location": "Salacia Plain, Court of Faintaine Region",
+        "Reccomended Elements": "-",
+        "Color": null,
+        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/4/4f/Enemy_All-Devouring_Narwhal.png/revision/latest?cb=20231108024322"
+    }
+]
