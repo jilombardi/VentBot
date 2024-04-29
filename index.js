@@ -19,6 +19,7 @@ const fs = require("node:fs");
 const path = require("node:path");
 const chrs = require('./genshinCharacterInfo.json');
 const domains = require('./genshinDomainInfo.json');
+const visions = require('./genshinCharacterSort');
 
 const client = new Client({ intents: [
   GatewayIntentBits.Guilds,
@@ -120,6 +121,56 @@ client.on('interactionCreate',(interaction) => {
     interaction.respond(results.slice(0,25)).catch(()=> {}); 
 
 });
+
+
+//SLASH COMMAND 'cl'
+//TWO AUTOCOMPLETE OPTIONS
+client.on('interactionCreate',(interaction) => {
+  if (!interaction.isAutocomplete()) return;
+  
+  if (interaction.commandName !== 'cl') return;
+
+    const focusedOption = interaction.options.getFocused(true);
+    console.log(focusedOption);
+
+    if(focusedOption.name === 'vision')
+    {
+
+      const filteredChoices = visions.filter((vision) =>
+        vision.vision.toLowerCase().startsWith(focusedOption.value.toLowerCase())
+      );
+
+      const results = filteredChoices.map((choice) => {
+        return{
+          name: choice.vision,
+          value: choice.vision
+        }
+      })
+
+      interaction.respond(results.slice(0,25)).catch(()=> {});
+
+    }else if (focusedOption.name === 'character')
+    {
+      const otheroption = focusedOption.name.vision;
+      console.log(otheroption);
+      const filteredChoices = chrs.filter((chr)=>
+        chr.characterName.toLowerCase().startsWith(focusedOption.value.toLowerCase())
+      );
+
+      const results = filteredChoices.map((choice) => {
+        return{
+          name: choice.characterName.toLowerCase(),
+          value: choice.ID,
+        }
+      })
+
+      interaction.respond(results.slice(1,25)).catch(() => {});
+    }
+ 
+
+});
+
+
 
 
 

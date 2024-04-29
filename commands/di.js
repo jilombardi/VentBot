@@ -18,25 +18,50 @@ module.exports = {
         const targetDomainID = interaction.options.getString('di');
         const domain = domains.find((c) => c.ID === targetDomainID);
         
-		// interaction.reply("Domain Name: "+domain['Domain Name'] +"\n"+
-                //           "Region "+ domain.Region+"\n"+
-                //           "Location: "+ domain.Location+"\n"+
-                //           "Reccomended Elements: "+ domain['Reccomended Elements']);
 
-                // const domainInfo = new EmbedBuilder()
-                //         .setTitle(domain['Domain Name'])
-                //         .setDescription(domain['Domain Type']+" | "+domain.RewardType)
-                //         .setImage(domain.imageLinkOne)
 
-                //         interaction.reply({embeds:[domainInfo], ephemeral: false});
-                
+                if(domain['Domain Type'] === ('Domain of Forgery') || domain['Domain Type'] === ('Domain of Mastery'))
 
-                if(domain['Domain Type'] === ('Domain of Forgery'))
+ 
                 {
                         const domainInfo = new EmbedBuilder()
                                 .setTitle(domain['Domain Name'])
                                 .setDescription(domain['Domain Type'] + " | " + domain.RewardType)
                                 .setImage(domain.imageLinkOne)
+                                .addFields(
+                                        {
+                                                name: domain.Region,
+                                                value: domain.Location,
+                                                inline:true
+                                        
+                                        },
+                                        {
+                                                name: domain.Rewards[0].Days,
+                                                value: "2 star: "+domain.Rewards[0]['2 star unique rewards']+
+                                                "\n3 star: "+domain.Rewards[0]['3 star unique rewards']+
+                                                "\n4 star: "+domain.Rewards[0]['4 star unique rewards']+
+                                                "\n5 star: "+domain.Rewards[0]['5 star unique rewards'],
+                                                inline:false
+                                        
+                                        },
+                                        {
+                                                name: domain.Rewards[1].Days,
+                                                value: "2 star: "+domain.Rewards[1]['2 star unique rewards']+
+                                                        "\n3 star: "+domain.Rewards[1]['3 star unique rewards']+
+                                                        "\n4 star: "+domain.Rewards[1]['4 star unique rewards']+
+                                                        "\n5 star: "+domain.Rewards[1]['5 star unique rewards'],
+                                                inline:true
+                                        
+                                        },
+                                        {
+                                                name: domain.Rewards[2].Days,
+                                                value: "2 star: "+domain.Rewards[2]['2 star unique rewards']+
+                                                "\n3 star: "+domain.Rewards[2]['3 star unique rewards']+
+                                                "\n4 star: "+domain.Rewards[2]['4 star unique rewards']+
+                                                "\n5 star: "+domain.Rewards[2]['5 star unique rewards'],
+                                                inline:false
+                                        
+                                        })
 
                                 interaction.reply({embeds:[domainInfo], ephemeral: false});
                 }else
@@ -45,6 +70,22 @@ module.exports = {
                         .setTitle(domain['Domain Name'])
                         .setDescription(domain['Domain Type'] + " | " + domain.RewardType)
                         .setImage(domain.imageLinkOne)
+                        .addFields(
+                                {
+                                        name: domain.Region,
+                                        value: domain.Location,
+                                        inline:true
+                                
+                                },
+                                {
+                                        name: 'Rewards Avaiable Everyday',
+                                        value: "2 star: "+domain.Rewards[0]['2 star unique rewards']+
+                                        "\n3 star: "+domain.Rewards[0]['3 star unique rewards']+
+                                        "\n4 star: "+domain.Rewards[0]['4 star unique rewards']+
+                                        "\n5 star: "+domain.Rewards[0]['5 star unique rewards'],
+                                        inline:false
+                                
+                                })
 
                         interaction.reply({embeds:[domainInfo], ephemeral: false});   
                 } 

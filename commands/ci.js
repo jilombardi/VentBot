@@ -19,19 +19,12 @@ module.exports = {
         const targetCharacterID = interaction.options.getString('ci');
         const chr = chrs.find((c) => c.ID === targetCharacterID);
 
-        /*
         
-		interaction.reply("Character Name: "+chr.characterName +"\n"+
-                          "Star rating "+ chr.star+"\n"+
-                          "Region: "+ chr.region+"\n"+
-                          "Vision: "+ chr.Vision);
-
-        */
 
         const charcaterInfo = new EmbedBuilder()
                 .setTitle(chr.characterName)
                 .setDescription(chr.star+"star | "+chr.Vision+" | "+chr.weapon)
-                .setColor("DarkPurple")
+                .setColor(chr.Color)
                 .setImage(chr.ImageLink)
                 .addFields(
                         {

@@ -208,7 +208,18 @@
         "Location": "Starsnatch Cliff, Starfell Valley",
         "Reccomended Elements": "Pyro",
         "Color": null,
-        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/2/28/Domain_Midsummer_Courtyard.png/revision/latest?cb=20201221031727"
+        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/2/28/Domain_Midsummer_Courtyard.png/revision/latest?cb=20201221031727",
+        "Rewards": [
+            {
+                "SubDomain": "-",
+                "Days": "everyday",
+                "2 star unique rewards": "-",
+                "3 star unique rewards": "Resolution of Sojourner, Adventuer",
+                "4 star unique rewards": "Thunder-soother, Thundering Fury, Resolution of Sojourner, Adventuer",
+                "5 star unique rewards": "Thunder-soother, Thundering Fury"
+        
+            }
+        ]  
     },
     {
         "ID": "7",
@@ -220,7 +231,17 @@
         "Location": "Dawn Winery, Windwail Highland",
         "Reccomended Elements": "-",
         "Color": null,
-        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/5/53/Domain_Valley_of_Remembrance.png/revision/latest?cb=20201221031212"
+        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/5/53/Domain_Valley_of_Remembrance.png/revision/latest?cb=20201221031212",
+        "Rewards": [
+            {
+                "SubDomain": "-",
+                "Days": "everyday",
+                "2 star unique rewards": "-",
+                "3 star unique rewards": "Tiny Miracle, Traveling Doctor",
+                "4 star unique rewards": "Maiden Beloved, Viridescent Venerer, Tiny Miracle, Traveling Doctor",
+                "5 star unique rewards": "Maiden Beloved, Viridescent Venerer"
+            }
+        ]  
     },
     {
         "ID": "8",
@@ -232,7 +253,17 @@
         "Location": "Skyfrost Nail, Dragonspine",
         "Reccomended Elements": "Pyro, Electro, Geo, Anemo",
         "Color": null,
-        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/a/af/Peak_of_Vindagnyr.png/revision/latest?cb=20220408051137"
+        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/a/af/Peak_of_Vindagnyr.png/revision/latest?cb=20220408051137",
+        "Rewards": [
+            {
+                "SubDomain": "-",
+                "Days": "everyday",
+                "2 star unique rewards": "-",
+                "3 star unique rewards": "Gambler, Defender's Will",
+                "4 star unique rewards": "Heart of Depth, Blizzard Strayer, Gambler, Defender's Will",
+                "5 star unique rewards": "Heart of Depth, Blizzard Strayer"
+            }
+        ]  
     },
     {
         "ID": "9",
@@ -244,7 +275,18 @@
         "Location": "Guyun Stone Forest, Sea of Clouds",
         "Reccomended Elements": "Electro",
         "Color": null,
-        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/e/e3/Domain_of_Guyun.png/revision/latest?cb=20201221031030"
+        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/e/e3/Domain_of_Guyun.png/revision/latest?cb=20201221031030",
+        "Rewards": [
+            {
+                "SubDomain": "-",
+                "Days": "everyday",
+                "2 star unique rewards": "-",
+                "3 star unique rewards": "Brave Heart, Lucky Dog",
+                "4 star unique rewards": "Retracing Bolide, Archaic Petra, Brave Heart, Lucky Dog",
+                "5 star unique rewards": "Retracing Bolide, Archaic Petra"
+            }
+        ]  
+        
     },
     {
         "ID": "10",
@@ -256,7 +298,17 @@
         "Location": "Wuwang Hill, Bishui Plain",
         "Reccomended Elements": "Cryo",
         "Color": null,
-        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/3/3c/Domain_Hidden_Palace_of_Zhou_Formula.png/revision/latest?cb=20201221031231"
+        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/3/3c/Domain_Hidden_Palace_of_Zhou_Formula.png/revision/latest?cb=20201221031231",
+        "Rewards": [
+            {
+                "SubDomain": "-",
+                "Days": "everyday",
+                "2 star unique rewards": "-",
+                "3 star unique rewards": "Defender's Will, Martial Artist",
+                "4 star unique rewards": "Crimson Witch of Flames, Lavawalker, Defender's Will, Martial Artist",
+                "5 star unique rewards": "Crimson Witch of Flames, Lavawalker"
+            }
+        ]  
     },
     {
         "ID": "11",
@@ -268,7 +320,17 @@
         "Location": "Stone Gate, Bishui Plain",
         "Reccomended Elements": "Hydro, Cryo, Geo",
         "Color": null,
-        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Domain_Ridge_Watch.png/revision/latest?cb=20210428062805"
+        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Domain_Ridge_Watch.png/revision/latest?cb=20210428062805",
+        "Rewards": [
+            {
+                "SubDomain": "-",
+                "Days": "everyday",
+                "2 star unique rewards": "-",
+                "3 star unique rewards": "Martial Artist, Brave Heart",
+                "4 star unique rewards": "Tenacity of the Millelith, Pale Flame, Martial Artist, Brave Heart",
+                "5 star unique rewards": "Tenacity of the Millelith, Pale Flame,"
+            }
+        ]  
     },
     {
         "ID": "12",
@@ -280,7 +342,17 @@
         "Location": "Fuao Vale, The Chasm",
         "Reccomended Elements": "Pyro, Electro, Geo, Anemo",
         "Color": null,
-        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/c/cb/Domain_The_Lost_Valley.png/revision/latest?cb=20220330202530"
+        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/c/cb/Domain_The_Lost_Valley.png/revision/latest?cb=20220330202530",
+        "Rewards": [
+            {
+                "SubDomain": "-",
+                "Days": "everyday",
+                "2 star unique rewards": "-",
+                "3 star unique rewards": "Gambler, Martial Artist",
+                "4 star unique rewards": "Echoes of an Offering, Vermillion Hereafter, Gambler, Martial Artist",
+                "5 star unique rewards": "Echoes of an Offering, Vermillion Hereafter"
+            }
+        ]  
     },
     {
         "ID": "13",
@@ -292,7 +364,17 @@
         "Location": "Mt. Aucang, Minlin",
         "Reccomended Elements": "Geo",
         "Color": null,
-        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/b/b6/Domain_Clear_Pool_and_Mountain_Cavern.png/revision/latest?cb=20201221031314"
+        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/b/b6/Domain_Clear_Pool_and_Mountain_Cavern.png/revision/latest?cb=20201221031314",
+        "Rewards": [
+            {
+                "SubDomain": "-",
+                "Days": "everyday",
+                "2 star unique rewards": "-",
+                "3 star unique rewards": "Scholar, Gambler",
+                "4 star unique rewards": "Noblese Oblige, Bloodstained Chivalry, Scholar, Gambler",
+                "5 star unique rewards": "Noblese Oblige, Bloodstained Chivalry"
+            }
+        ]  
     },
     {
         "ID": "14",
@@ -304,7 +386,17 @@
         "Location": "Yashiori Island",
         "Reccomended Elements": "Pyro, Cryo",
         "Color": null,
-        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Domain_Momiji-Dyed_Court.png/revision/latest?cb=20210723015927"
+        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Domain_Momiji-Dyed_Court.png/revision/latest?cb=20210723015927",
+        "Rewards": [
+            {
+                "SubDomain": "-",
+                "Days": "everyday",
+                "2 star unique rewards": "-",
+                "3 star unique rewards": "Tiny Miracle, Resolution of Sojourner",
+                "4 star unique rewards": "Shimenawa's Reminiscence, Emblam of Severed Fate, Tiny Miracle, Resolution of Sojourner",
+                "5 star unique rewards": "Shimenawa's Reminiscence, Emblam of Severed Fate"
+            }
+        ]  
     },
     {
         "ID": "15",
@@ -316,7 +408,17 @@
         "Location": "Seirai Island",
         "Reccomended Elements": "Electro, Hydro",
         "Color": null,
-        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Domain_Momiji-Dyed_Court.png/revision/latest?cb=20210723015927"
+        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Domain_Momiji-Dyed_Court.png/revision/latest?cb=20210723015927",
+        "Rewards": [
+            {
+                "SubDomain": "-",
+                "Days": "everyday",
+                "2 star unique rewards": "-",
+                "3 star unique rewards": "Defender's Will, Brave Heart",
+                "4 star unique rewards": "Husk of Opulent Dreams, Oceaned Hued Clam, Defender's Will, Brave Heart",
+                "5 star unique rewards": "Husk of Opulent Dreams, Oceaned Hued Clam"
+            }
+        ]  
     },
     {
         "ID": "16",
@@ -328,7 +430,17 @@
         "Location": "Khaj-Nisut, Land of the Lower Setekh",
         "Reccomended Elements": "Anemo",
         "Color": null,
-        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/4/49/Domain_City_of_Gold.png/revision/latest?cb=20221228013103"
+        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/4/49/Domain_City_of_Gold.png/revision/latest?cb=20221228013103",
+        "Rewards": [
+            {
+                "SubDomain": "-",
+                "Days": "everyday",
+                "2 star unique rewards": "-",
+                "3 star unique rewards": "Resolution of Sojouner, Brave Heart",
+                "4 star unique rewards": "Desert Pavilion Chronicle, Flower of Paradise Lost, Resolution of Sojouner, Brave Heart",
+                "5 star unique rewards": "Desert Pavilion Chronicle, Flower of Paradise Lost"
+            }
+        ]  
     },
     {
         "ID": "17",
@@ -340,7 +452,17 @@
         "Location": "Gandha Hill, Avidya Forest",
         "Reccomended Elements": "Electro, Cryo, Hydro",
         "Color": null,
-        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/d/d8/Domain_Spire_of_Solitary_Enlightenment.png/revision/latest?cb=20220825231229"
+        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/d/d8/Domain_Spire_of_Solitary_Enlightenment.png/revision/latest?cb=20220825231229",
+        "Rewards": [
+            {
+                "SubDomain": "-",
+                "Days": "everyday",
+                "2 star unique rewards": "-",
+                "3 star unique rewards": "Tiny Miracle, Gambler",
+                "4 star unique rewards": "Deepwood Memories, Gilded Dreams, Tiny Miracle, Gambler",
+                "5 star unique rewards": "Deepwood Memories, Gilded Dreams"
+            }
+        ]  
     },
     {
         "ID": "18",
@@ -352,7 +474,17 @@
         "Location": "Gavireh Lajavard",
         "Reccomended Elements": "Dendro",
         "Color": null,
-        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/4/49/Domain_City_of_Gold.png/revision/latest?cb=20221228013103"
+        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/4/49/Domain_City_of_Gold.png/revision/latest?cb=20221228013103",
+        "Rewards": [
+            {
+                "SubDomain": "-",
+                "Days": "everyday",
+                "2 star unique rewards": "-",
+                "3 star unique rewards": "Martial Artist, Scholar",
+                "4 star unique rewards": "Vourukasha's Glow, Nymph's Dream, Martial Artist, Scholar",
+                "5 star unique rewards": "Vourukasha's Glow, Nymph's Dream"
+            }
+        ]  
     },
     {
         "ID": "19",
@@ -364,7 +496,17 @@
         "Location": "Belleau Region",
         "Reccomended Elements": "Hydro, Cryo, Pyro, Anemo",
         "Color": null,
-        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/a/ad/Domain_Denouement_of_Sin.png/revision/latest?cb=20230818155721"
+        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/a/ad/Domain_Denouement_of_Sin.png/revision/latest?cb=20230818155721",
+        "Rewards": [
+            {
+                "SubDomain": "-",
+                "Days": "everyday",
+                "2 star unique rewards": "-",
+                "3 star unique rewards": "Resolution of Sojourner, Defender's Will",
+                "4 star unique rewards": "Marechaussee Hunter, Golden Troupe, Resolution of Sojourner, Defender's Will",
+                "5 star unique rewards": "Marechaussee Hunter, Golden Troupe"
+            }
+        ]  
     },
     {
         "ID": "20",
@@ -376,7 +518,18 @@
         "Location": "East Slopes of Mount Automnequi, Morte Region",
         "Reccomended Elements": "Geo",
         "Color": null,
-        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/a/ad/Domain_Denouement_of_Sin.png/revision/latest?cb=20230818155721"
+        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/a/ad/Domain_Denouement_of_Sin.png/revision/latest?cb=20230818155721",
+        "Rewards": [
+            {
+                "Rewards 20": "[",
+                "SubDomain": "-",
+                "Days": "everyday",
+                "2 star unique rewards": "-",
+                "3 star unique rewards": "Tiny Miracle, Martial Artist",
+                "4 star unique rewards": "Song of Days Past, Nighttime Whispers in the Echoing Woods, Tiny Miracle, Martial Artist",
+                "5 star unique rewards": "Song of Days Past, Nighttime Whispers in the Echoing Woods"
+            }
+        ]  
     },
     {
         "ID": "21",
@@ -388,7 +541,35 @@
         "Location": "Springvale, Windwail Highland",
         "Reccomended Elements": "Pyro, Electro",
         "Color": null,
-        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/a/a1/Domain_Forsaken_Rift.png/revision/latest?cb=20201221031430"
+        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/a/a1/Domain_Forsaken_Rift.png/revision/latest?cb=20201221031430",
+        "Rewards": [
+            {
+                "SubDomain": "Frosted Altar",
+                "Days": "Monday/Thursday/Sunday",
+                "2 star unique rewards": "Teachings of Freedom",
+                "3 star unique rewards": "Guide to Freedom",
+                "4 star unique rewards": "Philosophies of Freedom",
+                "5 star unique rewards": "-"
+            },
+            {
+                "SubDomain": "Frozen Abyss",
+                "Days": "Tuesday/Friday/Sunday",
+                "2 star unique rewards": "Teaching of Resistance",
+                "3 star unique rewards": "Guide to Resistance",
+                "4 star unique rewards": "Philosophies of Resistance",
+                "5 star unique rewards": "-"
+
+            },
+            {
+                "SubDomain": "Realm of the Slumber",
+                "Days": "Wednesday/Saturday/Sunday",
+                "2 star unique rewards": "Teachings of Ballad",
+                "3 star unique rewards": "Guide to Ballad",
+                "4 star unique rewards": "Philosophies of Ballad",
+                "5 star unique rewards": "-"
+
+            }
+        ]
     },
     {
         "ID": "22",
@@ -400,7 +581,35 @@
         "Location": "Jueyun Karst, Minlin",
         "Reccomended Elements": "Geo, Hydro, Pyro, Cryo, Electro",
         "Color": null,
-        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/d/d8/Domain_Taishan_Mansion.png/revision/latest?cb=20201221031419"
+        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/d/d8/Domain_Taishan_Mansion.png/revision/latest?cb=20201221031419",
+        "Rewards": [
+            {
+                "SubDomain": "Altar of Flames",
+                "Days": "Monday/Thursday/Sunday",
+                "2 star unique rewards": "Teachings of Prosperity",
+                "3 star unique rewards": "Guide to Prosperity",
+                "4 star unique rewards": "Philosophies of Prosperity",
+                "5 star unique rewards": "-"
+            },
+            {
+                "SubDomain": "Heart of the Flames",
+                "Days": "Tuesday/Friday/Sunday",
+                "2 star unique rewards": "Teachings of Diligence",
+                "3 star unique rewards": "Guide to Diligence",
+                "4 star unique rewards": "Philosophies of Diligence",
+                "5 star unique rewards": "-"
+
+            },
+            {
+                "SubDomain": "Circle of Embers",
+                "Days": "Wednesday/Saturday/Sunday",
+                "2 star unique rewards": "Teachings of Gold",
+                "3 star unique rewards": "Guide to Gold",
+                "4 star unique rewards": "Philosophies of Gold",
+                "5 star unique rewards": "-"
+
+            }
+        ]
     },
     {
         "ID": "23",
@@ -412,7 +621,35 @@
         "Location": "Kannazuka",
         "Reccomended Elements": "Dendro, Electro, Pyro, Hydro",
         "Color": null,
-        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/7/7e/Domain_Violet_Court.png/revision/latest?cb=20210723015926"
+        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/7/7e/Domain_Violet_Court.png/revision/latest?cb=20210723015926",
+        "Rewards": [
+            {
+                "SubDomain": "Reign of Violet",
+                "Days": "Monday/Thursday/Sunday",
+                "2 star unique rewards": "Teachings of Transience",
+                "3 star unique rewards": "Guide to Transience",
+                "4 star unique rewards": "Philosophies of Transience",
+                "5 star unique rewards": "-"
+            },
+            {
+                "SubDomain": "Thunderig Valley",
+                "Days": "Tuesday/Friday/Sunday",
+                "2 star unique rewards": "Teachings of Elegance",
+                "3 star unique rewards": "Guide of Elegance",
+                "4 star unique rewards": "Philosophies of Elegance",
+                "5 star unique rewards": "-"
+
+            },
+            {
+                "SubDomain": "Vine-Infested Ruins",
+                "Days": "Wednesday/Saturday/Sunday",
+                "2 star unique rewards": "Teachings of Light",
+                "3 star unique rewards": "Guide to Light",
+                "4 star unique rewards": "Philosophies of Light",
+                "5 star unique rewards": "-"
+
+            }
+        ]
     },
     {
         "ID": "24",
@@ -424,7 +661,35 @@
         "Location": "Chatrakam Cave, Lokapala Jungle",
         "Reccomended Elements": "Hydro, Cyro, Electro",
         "Color": null,
-        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/b/b4/Domain_Steeple_of_Ignorance.png/revision/latest?cb=20220825231411"
+        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/b/b4/Domain_Steeple_of_Ignorance.png/revision/latest?cb=20220825231411",
+        "Rewards": [
+            {
+                "SubDomain": "Full Moon",
+                "Days": "Monday/Thursday/Sunday",
+                "2 star unique rewards": "Teaching of Admonition",
+                "3 star unique rewards": "Guide to Admonition",
+                "4 star unique rewards": "Philosophies of Admonition",
+                "5 star unique rewards": "-"
+            },
+            {
+                "SubDomain": "Witticism",
+                "Days": "Tuesday/Friday/Sunday",
+                "2 star unique rewards": "Teaching of Ingenuity",
+                "3 star unique rewards": "Guide to Ingenuity",
+                "4 star unique rewards": "Philosophies of Ingenuity",
+                "5 star unique rewards": "-"
+
+            },
+            {
+                "SubDomain": "Basket of Discipline",
+                "Days": "Wednesday/Saturday/Sunday",
+                "2 star unique rewards": "Teaching of Praxis",
+                "3 star unique rewards": "Guide to Praxis",
+                "4 star unique rewards": "Philosophies of Praxis",
+                "5 star unique rewards": "-"
+
+            }
+        ]
     },
     {
         "ID": "25",
@@ -436,7 +701,35 @@
         "Location": "Salacia Plain, Court of Faintaine Region",
         "Reccomended Elements": "Electro",
         "Color": null,
-        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/0/08/Domain_Pale_Forgotten_Glory.png/revision/latest?cb=20230818154554"
+        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/0/08/Domain_Pale_Forgotten_Glory.png/revision/latest?cb=20230818154554",
+        "Rewards": [
+            {
+                "SubDomain": "Rhyming Rhythm",
+                "Days": "Monday/Thursday/Sunday",
+                "2 star unique rewards": "Teachings of Equity",
+                "3 star unique rewards": "Guide to Equity",
+                "4 star unique rewards": "Philosophies of Equity",
+                "5 star unique rewards": "-"
+            },
+            {
+                "SubDomain": "Admonishing Engraving",
+                "Days": "Tuesday/Friday/Sunday",
+                "2 star unique rewards": "Teachings of Justice",
+                "3 star unique rewards": "Guide to Justice",
+                "4 star unique rewards": "Philosophies of Justice",
+                "5 star unique rewards": "-"
+
+            },
+            {
+                "SubDomain": "Chiming Recitation",
+                "Days": "Wednesday/Saturday/Sunday",
+                "2 star unique rewards": "Teachings of Order",
+                "3 star unique rewards": "Guide to Order",
+                "4 star unique rewards": "Philosophies of Order",
+                "5 star unique rewards": "-"
+
+            }
+        ]
     },
     {
         "ID": "26",
@@ -448,7 +741,17 @@
         "Location": "Stormterror's Lair, Brightcrown Mountains",
         "Reccomended Elements": "-",
         "Color": null,
-        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/6/6a/Enemy_Dvalin_Full_Artwork.png/revision/latest?cb=20230820204530"
+        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/6/6a/Enemy_Dvalin_Full_Artwork.png/revision/latest?cb=20230820204530",
+        "Rewards": [
+            {
+                "SubDomain": "-",
+                "Days": "everyday",
+                "2 star unique rewards": "-",
+                "3 star unique rewards": "-",
+                "4 star unique rewards": "Dream Solvent, Northlander Billet series",
+                "5 star unique rewards": "Dvalin's Plume, Dvalin's Claw, Dvalin's sigh"
+            }
+        ]  
     },
     {
         "ID": "27",
@@ -460,10 +763,20 @@
         "Location": "Wolvendom",
         "Reccomended Elements": "-",
         "Color": null,
-        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/b/bc/Enemy_Andrius_Full_Artwork.png/revision/latest?cb=20230820204531"
+        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/b/bc/Enemy_Andrius_Full_Artwork.png/revision/latest?cb=20230820204531",
+        "Rewards": [
+            {
+                "SubDomain": "-",
+                "Days": "everyday",
+                "2 star unique rewards": "-",
+                "3 star unique rewards": "-",
+                "4 star unique rewards": "Dream Solvent, Northlander Billet series",
+                "5 star unique rewards": "still need to check lol"
+            }
+        ]  
     },
     {
-        "ID": "29",
+        "ID": "28",
         "Domain Name": "Enter the Golden House",
         "Domain Type": "Trounce Domain",
         "RewardType": "Character level-up material",
@@ -472,10 +785,20 @@
         "Location": "Mt. Tienheng, Sea of Clouds",
         "Reccomended Elements": "-",
         "Color": null,
-        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/8/8e/Enemy_Childe_Full_Artwork.png/revision/latest?cb=20230820204533"
+        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/8/8e/Enemy_Childe_Full_Artwork.png/revision/latest?cb=20230820204533",
+        "Rewards": [
+            {
+                "SubDomain": "-",
+                "Days": "everyday",
+                "2 star unique rewards": "-",
+                "3 star unique rewards": "-",
+                "4 star unique rewards": "Dream Solvent, Northlander Billet series",
+                "5 star unique rewards": "Tusk of Monoceros Caeli, Shard of a Foul Legacy, Shadow of the Warrior"
+            }
+        ]  
     },
     {
-        "ID": "28",
+        "ID": "29",
         "Domain Name": "Beneath the Dragon-Queller",
         "Domain Type": "Trounce Domain",
         "RewardType": "Character level-up material",
@@ -484,7 +807,18 @@
         "Location": "Nantianmen, Minlin",
         "Reccomended Elements": "-",
         "Color": null,
-        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/7/7e/Enemy_Azhdaha_Full_Artwork.png/revision/latest?cb=20230820204535"
+        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/7/7e/Enemy_Azhdaha_Full_Artwork.png/revision/latest?cb=20230820204535",
+        "Rewards": [
+            {
+                "SubDomain": "-",
+                "Days": "everyday",
+                "2 star unique rewards": "-",
+                "3 star unique rewards": "-",
+                "4 star unique rewards": "Dream Solvent, Northlander Billet series",
+                "5 star unique rewards": "Dragon Lord's Crown, Bladejade Branch, Gilded Scale"
+            }
+        ]  
+    
     },
     {
         "ID": "30",
@@ -496,7 +830,17 @@
         "Location": "Mt. Yougou, Narukami",
         "Reccomended Elements": "-",
         "Color": null,
-        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/1/13/Enemy_Magatsu_Mitake_Narukami_no_Mikoto_Full_Artwork.png/revision/latest?cb=20220507195941"
+        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/1/13/Enemy_Magatsu_Mitake_Narukami_no_Mikoto_Full_Artwork.png/revision/latest?cb=20220507195941",
+        "Rewards": [
+            {
+                "SubDomain": "-",
+                "Days": "everyday",
+                "2 star unique rewards": "-",
+                "3 star unique rewards": "-",
+                "4 star unique rewards": "Dream Solvent, Northlander Billet series",
+                "5 star unique rewards": "Mudra of the Malefic General, Tears of the Calamitous God, The Meaning of Aeons"
+            }
+        ]  
     },
     {
         "ID": "31",
@@ -508,7 +852,17 @@
         "Location": "Inazuma City, Narukami Island",
         "Reccomended Elements": "-",
         "Color": null,
-        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/b/bf/Enemy_Signora_Full_Artwork.png/revision/latest?cb=20230820204537"
+        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/b/bf/Enemy_Signora_Full_Artwork.png/revision/latest?cb=20230820204537",
+        "Rewards": [
+            {
+                "SubDomain": "-",
+                "Days": "everyday",
+                "2 star unique rewards": "-",
+                "3 star unique rewards": "-",
+                "4 star unique rewards": "Dream Solvent, Midlander Billet series",
+                "5 star unique rewards": "Molten Moment, Hellfire Butterfly, Ashen Heart"
+            }
+        ]  
     },
     {
         "ID": "32",
@@ -520,7 +874,17 @@
         "Location": "Chinvat Ravine, Avidya Forest",
         "Reccomended Elements": "-",
         "Color": null,
-        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/c/c7/Enemy_Everlasting_Lord_of_Arcane_Wisdom_Full_Artwork.png/revision/latest?cb=20221105175051"
+        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/c/c7/Enemy_Everlasting_Lord_of_Arcane_Wisdom_Full_Artwork.png/revision/latest?cb=20221105175051",
+        "Rewards": [
+            {
+                "SubDomain": "-",
+                "Days": "everyday",
+                "2 star unique rewards": "-",
+                "3 star unique rewards": "-",
+                "4 star unique rewards": "Dream Solvent, Midlander Billet series",
+                "5 star unique rewards": "Puppet Strings, Mirror of Mushin, Daka's Bell"
+            }
+        ]  
     },
     {
         "ID": "33",
@@ -532,7 +896,17 @@
         "Location": "Apep's Resort, Desert of Hadramaveth",
         "Reccomended Elements": "-",
         "Color": null,
-        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/8/86/Enemy_Warden_of_Oasis_Prime_Full_Artwork.png/revision/latest?cb=20230822110033"
+        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/8/86/Enemy_Warden_of_Oasis_Prime_Full_Artwork.png/revision/latest?cb=20230822110033",
+        "Rewards": [
+            {
+                "SubDomain": "-",
+                "Days": "everyday",
+                "2 star unique rewards": "-",
+                "3 star unique rewards": "-",
+                "4 star unique rewards": "Dream Solvent, Midlander Billet series",
+                "5 star unique rewards": "Worldspan Fern, Primordial Greenbloom, Everamber"
+            }
+        ]  
     },
     {
         "ID": "34",
@@ -544,6 +918,16 @@
         "Location": "Salacia Plain, Court of Faintaine Region",
         "Reccomended Elements": "-",
         "Color": null,
-        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/4/4f/Enemy_All-Devouring_Narwhal.png/revision/latest?cb=20231108024322"
+        "imageLinkOne": "https://static.wikia.nocookie.net/gensin-impact/images/4/4f/Enemy_All-Devouring_Narwhal.png/revision/latest?cb=20231108024322",
+        "Rewards": [
+            {
+                "SubDomain": "-",
+                "Days": "everyday",
+                "2 star unique rewards": "-",
+                "3 star unique rewards": "-",
+                "4 star unique rewards": "Dream Solvent, Midlander Billet series",
+                "5 star unique rewards": "Lightless Silk String, Lightless Eye of the Maelstorm, Lightless Mass"
+            }
+        ]  
     }
 ]

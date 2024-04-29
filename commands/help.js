@@ -5,7 +5,7 @@ module.exports = {
 		.setName('help')
 		.setDescription('Replies with list of avalible commands'),
 	async execute(interaction) {
-		console.log(interaction)
+		//console.log(interaction)
 		await interaction.reply(
 			'Note - messages with "." before last letter included so bot doesnt respond to them \n'+
             '/Ping -- responds with "Pong!" \n'+

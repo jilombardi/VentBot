@@ -1,0 +1,72 @@
+[
+    {
+        "": null,
+        "versionReleased": null,
+        "star": "5",
+        "vision": "anemo",
+        "weapon": "sword",
+        "region": "mondstadt",
+        "status": null,
+        "banner": null
+    },
+    {
+        "": null,
+        "versionReleased": null,
+        "star": "4",
+        "vision": "cryo",
+        "weapon": "claymore",
+        "region": "liyue",
+        "status": null,
+        "banner": null
+    },
+    {
+        "": null,
+        "versionReleased": null,
+        "star": null,
+        "vision": "dendro",
+        "weapon": "catalyst",
+        "region": "inazuma",
+        "status": null,
+        "banner": null
+    },
+    {
+        "": null,
+        "versionReleased": null,
+        "star": null,
+        "vision": "electro",
+        "weapon": "bow",
+        "region": "sumeru",
+        "status": null,
+        "banner": null
+    },
+    {
+        "": null,
+        "versionReleased": null,
+        "star": null,
+        "vision": "geo",
+        "weapon": "polearm",
+        "region": "fontaine",
+        "status": null,
+        "banner": null
+    },
+    {
+        "": null,
+        "versionReleased": null,
+        "star": null,
+        "vision": "hydro",
+        "weapon": null,
+        "region": "natlan",
+        "status": null,
+        "banner": null
+    },
+    {
+        "": null,
+        "versionReleased": null,
+        "star": null,
+        "vision": "pyro",
+        "weapon": null,
+        "region": "Snezhnaya",
+        "status": null,
+        "banner": null
+    }
+]
